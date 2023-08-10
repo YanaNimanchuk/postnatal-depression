@@ -1,5 +1,7 @@
 # postnatal-depression
 
+[View the notebook here](https://nbviewer.org/github/YanaNimanchuk/postnatal-depression/blob/main/postpartum-depression.ipynb)
+
 ## Project setup
 
 ```
